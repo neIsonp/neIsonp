@@ -3,9 +3,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Nelson+Pacheco+Ponte;I'm+18+years+old;I'm+from+Portugal,+São+Miguel;I+study+web+and+mobile+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<!--
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=neIsonp&bg_color=0d1117&color=00b9b9&line=00b9b9&point=3e4041&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
--->
+
+[![Nelson's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=neIsonp&bg_color=0D1117&color=00BFFF&title_color=00BFFF&line=00BFFF&point=00BFFF&area_color=0D1117&area=true&hide_border=true&hide_title=true&theme=midnight-purple&radius=8&height=300)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=neIsonp&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
