@@ -1,7 +1,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+NELSON+PONTE;I'M+18+YEARS+OLD;I'M+FROM+PORTUGAL;I+STUDY+FULLSTACK+DEVELOPMENT;BE+WELCOME!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+NELSON+PONTE;I'M+19+YEARS+OLD;I'M+FROM+PORTUGAL;I+STUDY+FULLSTACK+DEVELOPMENT;BE+WELCOME!+:%29)](https://git.io/typing-svg)
 
 
 [![Nelson's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=neIsonp&bg_color=0D1117&color=00BFFF&title_color=00BFFF&line=00BFFF&point=00BFFF&area_color=0D1117&area=true&hide_border=true&hide_title=true&theme=midnight-purple&radius=8&height=300)](https://github.com/ashutosh00710/github-readme-activity-graph)
