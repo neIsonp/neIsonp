@@ -38,6 +38,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117&logoColor=2496ED)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&labelColor=0D1117&logoColor=007396)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&logoColor=3776AB)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=php&labelColor=0D1117&logoColor=777BB4)&nbsp;
 
 ### Studying in this moment:
 ![Next.js](https://img.shields.io/badge/-Next.js-0D1117?style=for-the-badge&logo=next.js&labelColor=0D1117&logoColor=000000)&nbsp;
