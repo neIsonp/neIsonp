@@ -7,9 +7,6 @@
 [![Nelson's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=neIsonp&bg_color=0D1117&color=00BFFF&title_color=00BFFF&line=00BFFF&point=00BFFF&area_color=0D1117&area=true&hide_border=true&hide_title=true&theme=midnight-purple&radius=8&height=300)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=neIsonp&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
 
 ### Main skills:
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
